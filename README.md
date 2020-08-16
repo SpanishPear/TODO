@@ -8,5 +8,5 @@ Bunch of stuff I want to do!
   - [ ] Learn typescript 
   - [ ] Read + learn: opinionated guide to react
   - [ ] Algorithm visualiser - but fun and not boring
-  - [ ] Do something cool with Rust
+  - [ ] Do something cool with Rust/Learn Rust
    
