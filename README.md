@@ -9,4 +9,5 @@ Bunch of stuff I want to do!
   - [ ] Read + learn: opinionated guide to react
   - [ ] Algorithm visualiser - but fun and not boring
   - [ ] Do something cool with Rust/Learn Rust
+  - [ ] Website with all the talks I want to watch
    
