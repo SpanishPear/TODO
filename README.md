@@ -10,4 +10,5 @@ Bunch of stuff I want to do!
   - [ ] Algorithm visualiser - but fun and not boring
   - [ ] Do something cool with Rust/Learn Rust
   - [ ] Website with all the talks I want to watch
-   
+  - [x] ~Script that will make an ICS file for my classes.~ See [calare](https://github.com/MrSpanishPear/calare)
+  - [ ] Calare CGI website
