@@ -12,3 +12,5 @@ Bunch of stuff I want to do!
   - [ ] Website with all the talks I want to watch
   - [x] ~Script that will make an ICS file for my classes.~ See [calare](https://github.com/MrSpanishPear/calare)
   - [ ] Calare CGI website
+  - [ ] Teach website
+  - [ ] AoC 2020
