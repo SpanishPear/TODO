@@ -14,3 +14,4 @@ Bunch of stuff I want to do!
   - [ ] Calare CGI website
   - [ ] Teach website
   - [ ] AoC 2020
+  - [ ] QnA platform?
