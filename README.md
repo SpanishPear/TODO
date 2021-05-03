@@ -15,3 +15,4 @@ Bunch of stuff I want to do!
   - [x] ~Teach website~ see [teach](https://github.com/MrSpanishPear/teach)
   - [ ] AoC 2020
   - [ ] QnA platform?
+  - [ ] Make your own browser?
