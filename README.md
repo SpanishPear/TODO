@@ -13,6 +13,7 @@ Bunch of stuff I want to do!
   - [x] ~Script that will make an ICS file for my classes.~ See [calare](https://github.com/MrSpanishPear/calare)
   - [ ] Calare CGI website
   - [x] ~Teach website~ see [teach](https://github.com/MrSpanishPear/teach)
-  - [ ] AoC 2020
-  - [ ] QnA platform?
+  - [x] AoC 2020 (note, did about half)
+  - [ ] QnA platform (slido clone) ? 
   - [ ] Make your own browser?
+  
