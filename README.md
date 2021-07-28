@@ -6,7 +6,7 @@ Bunch of stuff I want to do!
   - [ ] Personal Website
   - [ ] Something cool in python idk
   - [ ] Learn typescript 
-  - [ ] Read + learn: opinionated guide to react
+  - [x] Read + learn: opinionated guide to react
   - [ ] Algorithm visualiser - but fun and not boring
   - [ ] Do something cool with Rust/Learn Rust
   - [ ] Website with all the talks I want to watch
@@ -16,4 +16,5 @@ Bunch of stuff I want to do!
   - [x] AoC 2020 (note, did about half)
   - [ ] QnA platform (slido clone) ? 
   - [ ] Make your own browser?
-  
+  - [ ] Shell in Rust
+  - [ ] Texteditor in rust
