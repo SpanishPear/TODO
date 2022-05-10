@@ -5,13 +5,13 @@ Bunch of stuff I want to do!
   - [ ] Website for my TODO's
   - [ ] Personal Website
   - [ ] Something cool in python idk
-  - [ ] Learn typescript 
+  - [x] Learn typescript 
   - [x] Read + learn: opinionated guide to react
   - [ ] Algorithm visualiser - but fun and not boring
-  - [ ] Do something cool with Rust/Learn Rust
+  - [x] Do something cool with Rust/Learn Rust
   - [ ] Website with all the talks I want to watch
   - [x] ~Script that will make an ICS file for my classes.~ See [calare](https://github.com/MrSpanishPear/calare)
-  - [ ] Calare CGI website
+  ~~- [ ] Calare CGI website
   - [x] ~Teach website~ see [teach](https://github.com/MrSpanishPear/teach)
   - [x] AoC 2020 (note, did about half)
   - [ ] QnA platform (slido clone) ? 
